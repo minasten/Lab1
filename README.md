@@ -1,2 +1,2 @@
 # P-lab
-TDT4112
+TDT4112, programmeringslab
